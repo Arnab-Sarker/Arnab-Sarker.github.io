@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learning to Build new website from github
 
 Trying out to build a website using jekyll themes 
 You can use the [editor on GitHub](https://github.com/Arnab-Sarker/Arnab-Sarker.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
